@@ -17,7 +17,6 @@ El repositorio incluye los siguientes archivos ASM:
 - `resmumen0505.asm`: Resumen de conceptos clave discutidos el 5 de mayo.
 - `resumen2203.asm`: Resumen de conceptos clave discutidos el 22 de marzo.
 
-Además, se incluye el directorio `ThreatDragonModels/` que contiene modelos de amenazas relacionados con los programas desarrollados.
 
 ## Requisitos
 
